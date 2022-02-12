@@ -48,6 +48,8 @@
       "name": "./a/div[1]",
       "size": "./div[1]",
       "date": "./div[2]",
+            "detail": {
+        "files": "//div[@class=\"detail data-list\"]/div/text()"
       }
     }
   },
